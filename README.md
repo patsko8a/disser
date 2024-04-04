@@ -15,3 +15,5 @@
 15. Vargas-Calderón V. et al. Many-qudit representation for the travelling salesman problem optimisation //Journal of the Physical Society of Japan. – 2021. – Т. 90. – №. 11. – С. 114002. 
 16. Vaswani A. et al. Attention is all you need //Advances in neural information processing systems. – 2017. – Т. 30. 
 17. Lewis M., Glover F. Quadratic unconstrained binary optimization problem preprocessing: Theory and empirical analysis //Networks. – 2017. – Т. 70. – №. 2. – С. 79-97. 
+18. Luo D. et al. Autoregressive neural network for simulating open quantum systems via a probabilistic formulation //Physical review letters. – 2022. – Т. 128. – №. 9. – С. 090501.
+19. 
