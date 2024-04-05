@@ -17,3 +17,4 @@
 17. Lewis M., Glover F. Quadratic unconstrained binary optimization problem preprocessing: Theory and empirical analysis //Networks. – 2017. – Т. 70. – №. 2. – С. 79-97. 
 18. Luo D. et al. Autoregressive neural network for simulating open quantum systems via a probabilistic formulation //Physical review letters. – 2022. – Т. 128. – №. 9. – С. 090501.
 19. Zhang Y. H., Di Ventra M. Transformer quantum state: A multipurpose model for quantum many-body problems //Physical Review B. – 2023. – Т. 107. – №. 7. – С. 075147.
+КОД TQS https://github.com/yuanhangzhang98/transformer_quantum_state
