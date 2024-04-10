@@ -18,3 +18,8 @@
 18. Luo D. et al. Autoregressive neural network for simulating open quantum systems via a probabilistic formulation //Physical review letters. – 2022. – Т. 128. – №. 9. – С. 090501.
 19. Zhang Y. H., Di Ventra M. Transformer quantum state: A multipurpose model for quantum many-body problems //Physical Review B. – 2023. – Т. 107. – №. 7. – С. 075147.
 КОД TQS https://github.com/yuanhangzhang98/transformer_quantum_state
+20. Vaswani A. et al. Attention is all you need //Advances in neural information processing systems. – 2017. – Т. 30.
+21. Lewis M., Glover F. Quadratic unconstrained binary optimization problem preprocessing: Theory and empirical analysis //Networks. – 2017. – Т. 70. – №. 2. – С. 79-97.
+22. Luo D. et al. Autoregressive neural network for simulating open quantum systems via a probabilistic formulation //Physical review letters. – 2022. – Т. 128. – №. 9. – С. 090501. 
+23. Zhang Y. H., Di Ventra M. Transformer quantum state: A multipurpose model for quantum many-body problems //Physical Review B. – 2023. – Т. 107. – №. 7. – С. 075147. 
+24. Liu S. et al. Large language models as evolutionary optimizers //arXiv preprint arXiv:2310.19046. – 2023.
