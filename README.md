@@ -19,3 +19,5 @@
 19. Zhang Y. H., Di Ventra M. Transformer quantum state: A multipurpose model for quantum many-body problems //Physical Review B. – 2023. – Т. 107. – №. 7. – С. 075147.
 КОД TQS https://github.com/yuanhangzhang98/transformer_quantum_state
 20. Liu S. et al. Large language models as evolutionary optimizers //arXiv preprint arXiv:2310.19046. – 2023.
+21. Vaswani A. et al. Attention is all you need //Advances in neural information processing systems. – 2017. – Т. 30.
+22. Lange H. et al. From Architectures to Applications: A Review of Neural Quantum States //arXiv preprint arXiv:2402.09402. – 2024.
