@@ -21,3 +21,4 @@
 20. Liu S. et al. Large language models as evolutionary optimizers //arXiv preprint arXiv:2310.19046. – 2023.
 21. Vaswani A. et al. Attention is all you need //Advances in neural information processing systems. – 2017. – Т. 30.
 22. Lange H. et al. From Architectures to Applications: A Review of Neural Quantum States //arXiv preprint arXiv:2402.09402. – 2024.
+23. https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_%D0%BE_%D1%81%D0%B5%D0%BC%D0%B8_%D0%BA%D1%91%D0%BD%D0%B8%D0%B3%D1%81%D0%B1%D0%B5%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D1%85_%D0%BC%D0%BE%D1%81%D1%82%D0%B0%D1%85
