@@ -1,4 +1,5 @@
 Код дипломной работы: https://colab.research.google.com/drive/19gHWNrWNievyanTIncUhi28IVhoYw8aP#scrollTo=6vpIcmBPWxaw 
+Текст: ВКР_me(2).pdf
 
 1. Lucas A. Ising formulations of many NP problems //Frontiers in physics. – 2014. – Т. 2. – С. 5. 
 2. Carleo G., Troyer M. Solving the quantum many-body problem with artificial neural networks //Science. – 2017. – Т. 355. – №. 6325. – С. 602-606. 
